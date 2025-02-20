@@ -1,6 +1,6 @@
 <!-- Encabezado con fondo degradado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Jordan%20Campos&fontSize=35&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20👋,%20I'm%20Jordan%20Campos&fontSize=35&fontColor=000000"/>
 </p>
 
 <h3 align="center">🚀 Trilingual Systems Engineer | Release & Change Management | IT Support</h3>
@@ -44,9 +44,5 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jcamposg6991&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcamposg6991&theme=radical" alt="GitHub Streak"/>
 </p>
 
