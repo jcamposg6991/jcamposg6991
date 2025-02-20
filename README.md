@@ -1,6 +1,6 @@
 <!-- Encabezado con fondo degradado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Jordan%20Campos&fontSize=35&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Jordan%20Campos&fontSize=35&fontColor=000000"/>
 </p>
 
 <h3 align="center">🚀 Trilingual Systems Engineer | Release & Change Management | IT Support</h3>
